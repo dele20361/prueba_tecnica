@@ -9,6 +9,7 @@ from pyspark.sql import functions as F
 spark = SparkSession.builder.appName("Analisis de Vuelos 2015").getOrCreate()
 
 # Cargar data de todos los meses
+# IMPORTANTE: Descargar data en el siguiente link: https://we.tl/t-LID8Gsw3gL
 path = "./vuelos2015/On_Time_Reporting_Carrier_On_Time_Performance_(1987_present)_2015_*.csv" 
 df = spark.read.csv(path, header=True, inferSchema=True)
 
