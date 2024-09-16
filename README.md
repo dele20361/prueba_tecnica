@@ -7,6 +7,7 @@ Realizada por: Paola De León
 ### <u>Ejercicio 1:</u>
 [Ir a archivo de python](ejercicio1_solvex.py)
 ### <u>Ejercicio 2:</u>
+**Download data at:** https://we.tl/t-LID8Gsw3gL
 [Ir a archivo de python](ejercicio2_solvex.py)
 ### <u>Ejercicio 3:</u>
 [Ir a archivo de python](ejercicio3_solvex.py)
